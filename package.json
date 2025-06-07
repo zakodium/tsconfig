@@ -1,0 +1,15 @@
+{
+  "name": "@zakodium/tsconfig",
+  "version": "0.0.0",
+  "description": "Shared TypeScript configurations for projects that Zakodium maintains.",
+  "files": [
+    "configs"
+  ],
+  "exports": {
+    ".": "./configs/tsconfig.base.json",
+    "./jsx": "./configs/tsconfig.jsx.json"
+  },
+  "devDependencies": {
+    "prettier": "^3.5.3"
+  }
+}
