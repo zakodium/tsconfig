@@ -15,7 +15,8 @@ Then extend in your own config:
 ```json
 {
   "extends": "@zakodium/tsconfig",
-  "compilerOptions": {}
+  "compilerOptions": {},
+  "include": ["src"]
 }
 ```
 
