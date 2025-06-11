@@ -3,7 +3,6 @@
     "lib": ["ES2023"],
     "types": [],
     "target": "ES2023",
-    "outDir": "lib",
     "module": "NodeNext",
     "rewriteRelativeImportExtensions": true,
     "erasableSyntaxOnly": true,
