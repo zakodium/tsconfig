@@ -5,6 +5,10 @@
   "files": [
     "configs"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zakodium/tsconfig"
+  },
   "exports": {
     ".": "./configs/tsconfig.base.json",
     "./jsx": "./configs/tsconfig.jsx.json"
