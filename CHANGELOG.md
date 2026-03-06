@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.3](https://github.com/zakodium/tsconfig/compare/v1.0.2...v1.0.3) (2026-03-06)
+
+
+### Bug Fixes
+
+* prepare for TS 6.0 ([3f73266](https://github.com/zakodium/tsconfig/commit/3f7326678ba55c7063fff382ccf409fcf790ac6b))
+
 ## [1.0.2](https://github.com/zakodium/tsconfig/compare/v1.0.1...v1.0.2) (2025-06-16)
 
 
