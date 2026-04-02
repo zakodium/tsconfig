@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.4](https://github.com/zakodium/tsconfig/compare/v1.0.3...v1.0.4) (2026-04-02)
+
+
+### Bug Fixes
+
+* set some sensible default dirs ([524c6c9](https://github.com/zakodium/tsconfig/commit/524c6c93d9490a6c2d2a9ee6285fd5f25063f0cb))
+
 ## [1.0.3](https://github.com/zakodium/tsconfig/compare/v1.0.2...v1.0.3) (2026-03-06)
 
 
