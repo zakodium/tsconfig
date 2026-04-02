@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.5](https://github.com/zakodium/tsconfig/compare/v1.0.4...v1.0.5) (2026-04-02)
+
+
+### Bug Fixes
+
+* do not set a default rootDir ([0af444c](https://github.com/zakodium/tsconfig/commit/0af444c6e254e72904174928fe3619bb4c801f36))
+
 ## [1.0.4](https://github.com/zakodium/tsconfig/compare/v1.0.3...v1.0.4) (2026-04-02)
 
 
